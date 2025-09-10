@@ -1,0 +1,16 @@
+{
+    "name": "Arduino-ESPSerialFlasher",
+    "description": "ESP Serial Flasher Library for ESP8266/ESP32",
+    "keywords": "esp, flasher, arduino",
+    "version": "1.0.0",
+    "authors": {
+        "name": "Huynh Tien Huy",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TienHuyIoT/Arduino-ESPSerialFlasher.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
